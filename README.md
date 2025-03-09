@@ -2,7 +2,7 @@
 
 #### side note:
 I actually didn't read the General Instructions part of the pdf and just realized that I had to document everything while making tiny commits.
-
+I have a half made CHIP 8 emulator already made in python lol if yall want to see https://github.com/thinkter/CHIP8/
 ## Overview
 This project is an image classifier model built using Convolutional Neural Networks (CNN) to classify images from the CIFAR-10 dataset. The dataset consists of 60,000 images categorized into 10 classes:
 
